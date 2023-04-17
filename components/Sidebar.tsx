@@ -12,7 +12,7 @@ const Sidebar = () => {
   return (
     <div>
       {/* <img src="my_face.jpg" alt="My Face" className='self-center w-32 h-32 mx-auto rounded-full'/> */}
-      <Image width="128" height="128" layout="intrinsic" quality="100" src="/../public/my_face.jpg" alt="My Face" className='mx-auto border rounded-full'/>
+      <Image width="128" height="128" layout="intrinsic" quality="100" src="/images/my_face.jpg" alt="My Face" className='mx-auto border rounded-full'/>
       {/* If the image was using an external image file on the web (https), then you must add something in "next.config.js" */}
       <h3 className='my-4 text-3xl font-medium tracking-wider font-kaushan'>
         <span className='text-yellow-500 dark:text-white'>~</span><span className='text-black dark:text-yellow-500'> Mario </span><span className='text-yellow-500 dark:text-white'>~</span>
