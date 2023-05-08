@@ -6,6 +6,8 @@ A portfolio design that show cases my skills, resume, and projects (not actually
 
 Project made by Mario (with some of my own code modifications).
 
+Project is hosted by Vercel. It can be viewed [here](https://portfolio2-seven-snowy.vercel.app/projects)
+
 ---
 
 Some screenshots:
